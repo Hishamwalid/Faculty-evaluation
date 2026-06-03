@@ -1,0 +1,9 @@
+{
+  "_comment": "Reference snapshot — actual credentials go in config.py (gitignored).",
+  "BASE_URL": "https://iems.bauet.ac.bd",
+  "SEM_ID": "202502",
+  "COMMENT": "Good",
+  "RADIO_VALUE": "3",
+  "HEADLESS": false,
+  "DELAY_MS": 500
+}
